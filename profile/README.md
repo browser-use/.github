@@ -11,7 +11,9 @@ Magnus and Gregor, just two friends who love to code and build things. Our plan 
 
 We LOVE the community and contributions are always welcome!
 
-Check our [open issues](https://github.com/browser-use/browser-use/issues) and [open pull requests](https://github.com/browser-use/browser-use/pulls) for more information.
+Check our [open Browser Use issues](https://github.com/browser-use/browser-use/issues) and [open Browser Use pull requests](https://github.com/browser-use/browser-use/pulls) for more information.
+
+If you see a bug in the docs, please report it at [Browser Use Docs](https://github.com/browser-use/docs/issues).
 
 ## 💬 Join the community
 
