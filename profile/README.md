@@ -1,3 +1,9 @@
+<picture>
+  <img alt="Shows a black Browser Use Logo in light color mode and a white one in dark color mode." src="./static/browser-use-banner.png"  width="full">
+</picture>
+
+<br />
+
 # Hi there, we are [Browser Use](https://browser-use.com)! 🌐
 
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
@@ -8,6 +14,10 @@
 ## 🔥 What do we do?
 
 Magnus and Gregor, just two friends who love to code and build things. Our plan is to build the web agents of the future.
+
+## ☁️ Want to use [hosted version?](https://cloud.browser-use.com)
+
+We offer a hosted version of Browser Use for $30/month. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
 
 ## 🤝 Contributions
 
