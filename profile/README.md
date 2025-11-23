@@ -17,7 +17,7 @@ Magnus and Gregor, just two friends who love to code and build things. Our plan 
 
 ## ☁️ Want to use [hosted version?](https://cloud.browser-use.com)
 
-We offer a hosted version of Browser Use for $30/month. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
+We offer a fully hosted platform of Browser Use with browsers, llms, custom data retention, support and a lot more. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
 
 ## 🤝 Contributions
 
