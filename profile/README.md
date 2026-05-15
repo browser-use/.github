@@ -19,6 +19,10 @@ Magnus and Gregor, just two friends who love to code and build things. Our plan 
 
 We offer a fully hosted platform of Browser Use with browsers, llms, custom data retention, support and a lot more. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
 
+## 📦 Want an always-on box agent?
+
+[Browser Use Box](https://browser-use.com/bux) runs Browser Use on your own Linux box with Browser Use Cloud, a persistent browser profile, Telegram control, and scheduled background work. Watch the [15-second demo](https://www.tiktok.com/@browser_use/video/7639824093721758989) or self-host it from the [open-source repo](https://github.com/browser-use/bux).
+
 ## 🤝 Contributions
 
 We LOVE the community and contributions are always welcome!
