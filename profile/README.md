@@ -11,13 +11,21 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/gregpr07)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/mamagnus00)
 
-## 🔥 What do we do?
+## 🔥 What do we build?
 
-Magnus and Gregor, just two friends who love to code and build things. Our plan is to build the web agents of the future.
+Browser Use has two commercial products:
 
-## ☁️ Want to use [hosted version?](https://cloud.browser-use.com)
+- **[Browser Use Agents](https://browser-use.com/web-agents):** hosted task completion—give an agent a task and receive the result.
+- **[Browser Infrastructure](https://browser-use.com/stealth-browsers):** control hosted cloud browsers through the SDK, REST API, or CDP.
 
-We offer a fully hosted platform of Browser Use with browsers, llms, custom data retention, support and a lot more. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
+Developer tools and interfaces support those products:
+
+- **[Open Source](https://github.com/browser-use/browser-use):** build and run the browser-agent framework in your own environment.
+- **[Browser Harness](https://www.browser-harness.com):** give coding agents direct browser control.
+- **[Cloud SDK](https://github.com/browser-use/sdk):** typed Python and TypeScript access to Browser Use Cloud.
+- **[MCP](https://browser-use.com/mcp):** connect MCP-compatible clients to Browser Use capabilities.
+
+Start with the [documentation](https://docs.browser-use.com) or visit [Browser Use Cloud](https://cloud.browser-use.com).
 
 ## 🤝 Contributions
 
@@ -25,7 +33,7 @@ We LOVE the community and contributions are always welcome!
 
 Check our [open Browser Use issues](https://github.com/browser-use/browser-use/issues) and [open Browser Use pull requests](https://github.com/browser-use/browser-use/pulls) for more information.
 
-If you see a bug in the docs, please report it at [Browser Use Docs](https://github.com/browser-use/docs/issues).
+If you see a bug in the docs, report it in the [Browser Use SDK issue tracker](https://github.com/browser-use/sdk/issues); that repository also hosts the documentation source.
 
 ## 💬 Join the community
 
