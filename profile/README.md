@@ -1,32 +1,30 @@
 <picture>
-  <img alt="Shows a black Browser Use Logo in light color mode and a white one in dark color mode." src="./static/browser-use-banner.png"  width="full">
+  <img alt="Browser Use" src="./static/browser-use-banner.png" width="100%">
 </picture>
 
 <br />
 
-# Hi there, we are [Browser Use](https://browser-use.com)! 🌐
+# Browser Use | Web Agents & Browser Infrastructure
 
-[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
 [![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://cloud.browser-use.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/gregpr07)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/mamagnus00)
+[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/browser_use?style=social)](https://x.com/browser_use)
 
-## 🔥 What do we do?
+Browser Use helps teams automate work on the web with open-source tools, fully hosted AI agents, and affordable, stealthy browser infrastructure.
 
-Magnus and Gregor, just two friends who love to code and build things. Our plan is to build the web agents of the future.
+## Hosted agents and browser infrastructure
 
-## ☁️ Want to use [hosted version?](https://cloud.browser-use.com)
+- **[Browser Use Agents](https://browser-use.com/web-agents):** Fully hosted agents that turn natural-language instructions into completed browser tasks and structured data.
+- **[Browser Infrastructure](https://browser-use.com/stealth-browsers):** Affordable stealth browsers with proxies and automatic CAPTCHA solving. Works with Playwright and Puppeteer.
 
-We offer a fully hosted platform of Browser Use with browsers, llms, custom data retention, support and a lot more. Visit [cloud.browser-use.com](https://cloud.browser-use.com) to get started.
+**[Get started on Browser Use Cloud →](https://cloud.browser-use.com)**
 
-## 🤝 Contributions
+## Contributions
 
-We LOVE the community and contributions are always welcome!
+Community contributions help improve Browser Use. Explore our [open issues](https://github.com/browser-use/browser-use/issues) and [pull requests](https://github.com/browser-use/browser-use/pulls) to get involved.
 
-Check our [open Browser Use issues](https://github.com/browser-use/browser-use/issues) and [open Browser Use pull requests](https://github.com/browser-use/browser-use/pulls) for more information.
+Report documentation bugs at [Browser Use Docs](https://github.com/browser-use/docs/issues).
 
-If you see a bug in the docs, please report it at [Browser Use Docs](https://github.com/browser-use/docs/issues).
+## Community
 
-## 💬 Join the community
-
-Don't want to miss out on our latest updates? Join our [Discord](https://link.browser-use.com/discord).
+Join our [Discord](https://link.browser-use.com/discord) to ask questions, share your work, and follow product updates.
